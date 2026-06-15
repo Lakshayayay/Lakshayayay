@@ -1,19 +1,12 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER — jet black -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=000000&amp;height=180&amp;section=header&amp;text=Lakshay%20Kalra&amp;fontSize=42&amp;fontColor=e8e8e8&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Engineer%20%7C%20Builder&amp;descAlignY=60&amp;descSize=16&amp;animation=fadeIn" width="100%"/>
+<!-- ANIMATED HEADER BANNER — aesthetic monochrome -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,40:141414,70:1c1c1c,100:0a0a0a&amp;height=220&amp;section=header&amp;text=Lakshay%20Kalra&amp;fontSize=46&amp;fontColor=f0f0f0&amp;fontAlignY=36&amp;desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Engineer%20%7C%20Builder&amp;descAlignY=56&amp;descSize=17&amp;descColor=888888&amp;animation=fadeIn&amp;stroke=222222&amp;strokeWidth=1" width="100%"/>
 
 <!-- TYPING ANIMATION — greyscale -->
 <a href="https://github.com/Lakshayayay">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=9E9E9E&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Building+full-stack+products+that+scale.;Automating+workflows+with+AI.;Engineering+solutions%2C+not+just+code.;Leading+teams+%26+shipping+ideas." alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- BADGES — greyscale -->
-<img src="https://komarev.com/ghpvc/?username=Lakshayayay&amp;label=Profile+Views&amp;color=555555&amp;style=flat-square" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Lakshayayay?label=Followers&amp;style=flat-square&amp;color=555555" alt="followers"/>
 
 </div>
 
