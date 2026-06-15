@@ -119,9 +119,9 @@ I thrive on **problem-solving, rapid prototyping, and continuous learning**, alw
 
 ---
 
-<!-- FOOTER BANNER — jet black -->
+<!-- FOOTER — pixel art cozy coding GIF -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=000000&amp;height=120&amp;section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Cozy pixel art coding room"/>
 
 </div>
