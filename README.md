@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER — monochrome/minimal -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:2a2a2a&height=180&section=header&text=Lakshay%20Kalra&fontSize=42&fontColor=e8e8e8&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Engineer%20%7C%20Builder&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<!-- ANIMATED HEADER BANNER — jet black -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=000000&amp;height=180&amp;section=header&amp;text=Lakshay%20Kalra&amp;fontSize=42&amp;fontColor=e8e8e8&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Engineer%20%7C%20Builder&amp;descAlignY=60&amp;descSize=16&amp;animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION — greyscale -->
 <a href="https://github.com/Lakshayayay">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=9E9E9E&center=true&vCenter=true&width=580&lines=Building+full-stack+products+that+scale.;Automating+workflows+with+AI.;Engineering+solutions%2C+not+just+code.;Leading+teams+%26+shipping+ideas." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=9E9E9E&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Building+full-stack+products+that+scale.;Automating+workflows+with+AI.;Engineering+solutions%2C+not+just+code.;Leading+teams+%26+shipping+ideas." alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- BADGES — greyscale -->
-<img src="https://komarev.com/ghpvc/?username=Lakshayayay&label=Profile+Views&color=555555&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Lakshayayay&amp;label=Profile+Views&amp;color=555555&amp;style=flat-square" alt="profile views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Lakshayayay?label=Followers&style=flat-square&color=555555" alt="followers"/>
+<img src="https://img.shields.io/github/followers/Lakshayayay?label=Followers&amp;style=flat-square&amp;color=555555" alt="followers"/>
 
 </div>
 
@@ -92,7 +92,7 @@ I thrive on **problem-solving, rapid prototyping, and continuous learning**, alw
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshayayay&bg_color=0a0a0a&color=888888&line=555555&point=e8e8e8&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshayayay&amp;bg_color=000000&amp;color=888888&amp;line=555555&amp;point=e8e8e8&amp;area=true&amp;hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -103,15 +103,15 @@ I thrive on **problem-solving, rapid prototyping, and continuous learning**, alw
 <div align="center">
 
 <a href="https://github.com/Lakshayayay">
-  <img src="https://img.shields.io/badge/GitHub-@Lakshayayay-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-@Lakshayayay-1a1a1a?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/lakshaykalra">
-  <img src="https://img.shields.io/badge/LinkedIn-Lakshay%20Kalra-2a2a2a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Lakshay%20Kalra-2a2a2a?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:lakshaykalra@email.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-1a1a1a?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -122,9 +122,9 @@ I thrive on **problem-solving, rapid prototyping, and continuous learning**, alw
 
 ---
 
-<!-- FOOTER BANNER — monochrome -->
+<!-- FOOTER BANNER — jet black -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a2a,50:1a1a1a,100:0a0a0a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=000000&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
