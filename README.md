@@ -25,7 +25,7 @@ Exploring **DevOps** to streamline development processes and **AI/ML** to drive 
 
 ### 👨‍💻 Projects
 
-🚀 [Check out my portfolio](#YOUR-PORTFOLIO-LINK-HERE)
+🚀 [Check out my portfolio](https://github.com/Lakshayayay?tab=repositories)
 
 ### 💬 Ask me about
 
@@ -33,11 +33,11 @@ MERN Stack, Next.js, AI Automation, Data Structures & Algorithms.
 
 ### 📫 Get in Touch
 
-[Email Me](mailto:YOUR-EMAIL-HERE)
+[Email Me](mailto:laklra.3350@gmail.com)
 
 ### 📄 My Resume
 
-🖊️ [View Here](#YOUR-RESUME-LINK-HERE)
+🖊️ [View Here](https://drive.google.com/drive/u/1/home)
 
 ---
 
