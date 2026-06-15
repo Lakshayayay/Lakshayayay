@@ -19,6 +19,79 @@
 
 ---
 
+### 🌱 Currently Learning
+
+Exploring **DevOps** to streamline development processes and **AI/ML** to drive innovation and build intelligent automation systems.
+
+### 👨‍💻 Projects
+
+🚀 [Check out my portfolio](#YOUR-PORTFOLIO-LINK-HERE)
+
+### 💬 Ask me about
+
+MERN Stack, Next.js, AI Automation, Data Structures & Algorithms.
+
+### 📫 Get in Touch
+
+[Email Me](mailto:YOUR-EMAIL-HERE)
+
+### 📄 My Resume
+
+🖊️ [View Here](#YOUR-RESUME-LINK-HERE)
+
+---
+
+### 🔗 Let's Connect!
+
+<a href="https://twitter.com/YOUR-TWITTER-HERE" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="48" />
+</a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="48" />
+</a>
+<a href="https://instagram.com/YOUR-INSTAGRAM-HERE" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="48" />
+</a>
+<a href="https://youtube.com/@YOUR-YOUTUBE-HERE" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="48" />
+</a>
+
+---
+
+### 🔧 Languages and Tools:
+
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+
+---
+
+<div align="center">
+
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-333?style=flat-square&labelColor=111)
+![MERN](https://img.shields.io/badge/MERN-Stack-444?style=flat-square&labelColor=222)
+![Next.js](https://img.shields.io/badge/Next.js-Production%20Apps-333?style=flat-square&labelColor=111)
+![AI](https://img.shields.io/badge/AI%20%26%20ML-Automation-444?style=flat-square&labelColor=222)
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-333?style=flat-square&labelColor=111)
+![DevOps](https://img.shields.io/badge/DevOps-Learning-444?style=flat-square&labelColor=222)
+
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
 Hello! I'm **Lakshay Kalra**, a **Full-Stack Developer and AI & Automation Engineer** currently in my **3rd year of B.Tech in Computer Science** at Vivekananda Institute of Professional Studies (VIPS), Delhi. My passion for technology goes beyond writing code — I architect systems, automate workflows, and build products that solve real problems.
@@ -44,80 +117,11 @@ I thrive on **problem-solving, rapid prototyping, and continuous learning**, alw
 
 ---
 
-<!-- TECH STACK — monochrome -->
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-2a2a2a?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=e8e8e8)
-![JavaScript](https://img.shields.io/badge/JavaScript-2a2a2a?style=for-the-badge&logo=javascript&logoColor=e8e8e8)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=e8e8e8)
-![CSS3](https://img.shields.io/badge/CSS3-2a2a2a?style=for-the-badge&logo=css3&logoColor=e8e8e8)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=e8e8e8)
-![Next.js](https://img.shields.io/badge/Next.js-2a2a2a?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=e8e8e8)
-![Express](https://img.shields.io/badge/Express-2a2a2a?style=for-the-badge&logo=express&logoColor=white)
-
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=for-the-badge&logo=openai&logoColor=e8e8e8)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-2a2a2a?style=for-the-badge&logo=google&logoColor=e8e8e8)
-![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=for-the-badge&logo=chainlink&logoColor=e8e8e8)
-
-**Databases & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-2a2a2a?style=for-the-badge&logo=mongodb&logoColor=e8e8e8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=e8e8e8)
-![Firebase](https://img.shields.io/badge/Firebase-2a2a2a?style=for-the-badge&logo=firebase&logoColor=e8e8e8)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=e8e8e8)
-![GitHub](https://img.shields.io/badge/GitHub-2a2a2a?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=e8e8e8)
-![VS Code](https://img.shields.io/badge/VS%20Code-2a2a2a?style=for-the-badge&logo=visualstudiocode&logoColor=e8e8e8)
-![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=e8e8e8)
-
-</div>
-
----
-
 <!-- ACTIVITY GRAPH — monochrome -->
 ## 📈 Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshayayay&amp;bg_color=000000&amp;color=888888&amp;line=555555&amp;point=e8e8e8&amp;area=true&amp;hide_border=true" width="95%" alt="Activity Graph"/>
-</div>
-
----
-
-<!-- CONNECT -->
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Lakshayayay">
-  <img src="https://img.shields.io/badge/GitHub-@Lakshayayay-1a1a1a?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/lakshaykalra">
-  <img src="https://img.shields.io/badge/LinkedIn-Lakshay%20Kalra-2a2a2a?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:lakshaykalra@email.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-1a1a1a?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
-</a>
-
-<br/><br/>
-
-*Open to collaborations, internships, and conversations about tech that matters.*
-
 </div>
 
 ---
