@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER — aesthetic monochrome -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,40:141414,70:1c1c1c,100:0a0a0a&amp;height=220&amp;section=header&amp;text=Lakshay%20Kalra&amp;fontSize=46&amp;fontColor=f0f0f0&amp;fontAlignY=36&amp;desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Engineer%20%7C%20Builder&amp;descAlignY=56&amp;descSize=17&amp;descColor=888888&amp;animation=fadeIn&amp;stroke=222222&amp;strokeWidth=1" width="100%"/>
+<!-- TERMINAL TYPING BANNER — programmer aesthetic -->
+![Terminal Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2200&color=E0E0E0&background=111111&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=++++Lakshay+Kalra;%24+whoami+%E2%86%92+Full-Stack+Dev+%7C+AI+%26+Automation+Eng;++++MERN+%7C+TypeScript+%7C+Python+%7C+AI+APIs;%24+git+log+%E2%86%92+Always+building%2C+always+shipping.)
 
-<!-- TYPING ANIMATION — greyscale -->
-<a href="https://github.com/Lakshayayay">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=9E9E9E&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Building+full-stack+products+that+scale.;Automating+workflows+with+AI.;Engineering+solutions%2C+not+just+code.;Leading+teams+%26+shipping+ideas." alt="Typing SVG" />
-</a>
+<br/>
+
+<!-- SUBTITLE TYPING — muted grey -->
+![Subtitle](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&pause=1500&color=666666&center=true&vCenter=true&width=620&lines=Engineering+solutions%2C+not+just+code.;Building+full-stack+products+that+scale.;Automating+workflows+with+intelligence.;Open+to+collaborations+%26+opportunities.)
 
 </div>
 
