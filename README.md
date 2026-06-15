@@ -119,9 +119,9 @@ I thrive on **problem-solving, rapid prototyping, and continuous learning**, alw
 
 ---
 
-<!-- FOOTER — pixel art cozy coding GIF -->
+<!-- FOOTER — MarioCoder pixel art GIF (Nintendo gaming room) -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Cozy pixel art coding room"/>
+<img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" width="100%" alt="MarioCoder pixel art - Nintendo gaming coding room"/>
 
 </div>
