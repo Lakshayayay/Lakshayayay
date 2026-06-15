@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- TERMINAL TYPING BANNER — programmer aesthetic -->
-![Terminal Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2200&color=E0E0E0&background=111111&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=++++Lakshay+Kalra;%24+whoami+%E2%86%92+Full-Stack+Dev+%7C+AI+%26+Automation+Eng;++++MERN+%7C+TypeScript+%7C+Python+%7C+AI+APIs;%24+git+log+%E2%86%92+Always+building%2C+always+shipping.)
+<!-- COLORFUL ANIMATED CODING GIF BANNER -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
 
 <br/>
 
-<!-- SUBTITLE TYPING — muted grey -->
-![Subtitle](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&pause=1500&color=666666&center=true&vCenter=true&width=620&lines=Engineering+solutions%2C+not+just+code.;Building+full-stack+products+that+scale.;Automating+workflows+with+intelligence.;Open+to+collaborations+%26+opportunities.)
+<!-- NAME & ROLE TYPING -->
+![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=E0E0E0&center=true&vCenter=true&width=700&lines=Lakshay+Kalra+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI+%26+Automation+Engineer;Builder.+Automator.+Thinker.)
 
 </div>
 
